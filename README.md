@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JazOak
-- 👀 I’m interested in ... Coding, Traveling, Dining out & Anime.
-- 🌱 I’m currently learning ... Beginners CSS.
+- 👋 Hi, I’m @Jazmine
+- 👀 I’m interested in ... Coding, Traveling, Hiking & Dining out.
+- 🌱 I’m currently learning ... CSS.
 - 💞️ I’m looking to collaborate on ... projects in the future.
-- 📫 How to reach me ... jazmineoakes94@gmail.com .
+- 📫 How to reach me ...
 
 <!---
 JazOak/JazOak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
