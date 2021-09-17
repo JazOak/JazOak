@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jazmine
+- 👋 Hi, I’m @JazOak
 - 👀 I’m interested in ... Coding, Traveling, Hiking & Dining out.
 - 🌱 I’m currently learning ... CSS.
 - 💞️ I’m looking to collaborate on ... projects in the future.
